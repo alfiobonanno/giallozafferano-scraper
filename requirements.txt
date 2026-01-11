@@ -1,4 +1,3 @@
 pymongo
 scrapling
-# requests # Uncomment if needed for other tasks
-# beautifulsoup4 # Uncomment if needed for other parsing
+
