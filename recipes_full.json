@@ -1,0 +1,1465 @@
+[
+    {
+        "title": "Tiramisù",
+        "url": "https://ricette.giallozafferano.it/Tiramisu.html",
+        "description": "Siete pronti a preparare il tiramisù perfetto, il dolce al cucchiaio più amato d’Italia ? Con la nostra ricetta del tiramisù classico scoprirete tutti i segreti per ottenere un dessert cremoso, goloso e irresistibile, proprio come quello della tradizione. Il tiramisù è uno dei dolci italiani più famosi al mondo, simbolo della pasticceria casalinga e protagonista immancabile delle grandi occasioni. Con pochi ingredienti semplici — uova fresche, mascarpone, savoiardi, caffè e cacao amaro — potete creare un dolce che conquista al primo assaggio. In questa ricetta originale del tiramisù, vi guideremo passo passo per realizzare la crema al mascarpone perfetta, montata alla giusta consistenza e senza grumi, e vi spiegheremo come inzuppare i savoiardi nel caffè per ottenere il giusto equilibrio tra morbidezza e struttura. Il risultato? Un tiramisù cremoso e vellutato, dal profumo intenso di caffè e dal gusto equilibrato che si scioglie in bocca. Ideale come dessert di fine pasto, per una cena tra amici o una ricorrenza speciale, ma anche per concedervi un momento di puro piacere ogni volta che volete. Con questa ricetta del tiramisù passo passo di GialloZafferano, avrete la certezza di portare in tavola il vero tiramisù fatto in casa, con tanta crema, autentico e irresistibile, pronto a conquistare tutti al primo cucchiaio! E dopo aver preparato la classica, scoprite anche queste golose varianti di tiramisù",
+        "ingredients": [
+            {
+                "group": "per una teglia di 30x20 cm",
+                "items": [
+                    {
+                        "item": "Mascarpone",
+                        "quantity": "750 g"
+                    },
+                    {
+                        "item": "Uova",
+                        "quantity": "freschissime (circa 5 medie) 260 g"
+                    },
+                    {
+                        "item": "Savoiardi",
+                        "quantity": "250 g"
+                    },
+                    {
+                        "item": "Zucchero",
+                        "quantity": "120 g"
+                    },
+                    {
+                        "item": "Caffè",
+                        "quantity": "(della moka, zuccherato a piacere) 300 g"
+                    }
+                ]
+            },
+            {
+                "group": "per decorare",
+                "items": [
+                    {
+                        "item": "Cacao amaro in polvere",
+                        "quantity": "q.b."
+                    }
+                ]
+            }
+        ],
+        "instructions": "Per preparare il tiramisù preparate il caffè con la moka per ottenerne 300 g, poi zuccherate a piacere (noi abbiamo messo un cucchiaino) e lasciatelo raffreddare in una ciotolina bassa e ampia. Separate le uova dividendo gli albumi dai tuorli, ricordando che per montare bene gli albumi non dovranno presentare alcuna traccia di tuorlo. Montate i tuorli con le fruste elettriche, versando solo metà dose di zucchero. Non appena il composto sarà diventato chiaro e spumoso, e con le fruste ancora in funzione, potrete aggiungere il mascarpone, poco alla volta. Incorporato tutto il formaggio avrete ottenuto una crema densa e compatta ; tenetela da parte. Pulite molto bene le fruste e passate a montare gli albumi. Quando saranno schiumosi versate il restante zucchero un po’ alla volta. Dovrete montarli a neve ben ferma ; otterrete questo risultato quando rovesciando la ciotola la massa non si muoverà. Prendete una cucchiaiata di albumi e versatela nella ciotola con la crema di mascarpone e mescolate energicamente con una spatola, così stempererete il composto. Dopodiché procedete ad aggiungere la restante parte di albumi, poco alla volta mescolando molto delicatamente dal basso verso l'alto. La crema al mascarpone è ora pronta. Distribuitene una generosa cucchiaiata sul fondo di una pirofila di vetro, grande 30x19,5cm e distribuite per bene su tutta la base. Inzuppate per pochi istanti i savoiardi nel caffè freddo prima da un lato e poi dall’altro. Man mano distribuite i savoiardi imbevuti nella pirofila, cercando di sistemarli tutti in un verso, così da ottenere un primo strato di biscotti. Aggiungete altra crema al mascarpone e livellatela in modo da coprirli completamente. E continuate a distribuire i savoiardi imbevuti nel caffè, poi realizzate un altro strato di crema e livellate bene la superficie. Trasferite la crema rimasta in un sac-à-poche con beccuccio liscio di diametro 12 mm e realizzare dei ciuffetti per tutta la dimensione della teglia. Spolverizzatela con del cacao amaro in polvere e lasciate rassodare in frigorifero per un paio d’ore. Il vostro tiramisù è pronto per essere gustato!",
+        "related_recipes": [
+            {
+                "name": "Tiramisù alle fragole",
+                "url": "https://ricette.giallozafferano.it/Tiramisu-alle-fragole.html"
+            },
+            {
+                "name": "Tiramisù senza uova",
+                "url": "https://ricette.giallozafferano.it/Tiramisu-senza-uova.html"
+            },
+            {
+                "name": "Tiramisù al pistacchio",
+                "url": "https://ricette.giallozafferano.it/Tiramisu-al-pistacchio.html"
+            },
+            {
+                "name": "Tiramisù con uova pastorizzate",
+                "url": "https://ricette.giallozafferano.it/Tiramisu-con-uova-pastorizzate.html"
+            },
+            {
+                "name": "Tiramisù al limone",
+                "url": "https://ricette.giallozafferano.it/Tiramisu-al-limone.html"
+            },
+            {
+                "name": "Tiramisù alla Nutella",
+                "url": "https://ricette.giallozafferano.it/Tiramisu-alla-Nutella.html"
+            },
+            {
+                "name": "Tiramisù con panna",
+                "url": "https://ricette.giallozafferano.it/Tiramisu-con-panna.html"
+            },
+            {
+                "name": "Tiramisù allo zafferano",
+                "url": "https://ricette.giallozafferano.it/Tiramisu-allo-zafferano.html"
+            },
+            {
+                "name": "Tiramisù alla zucca",
+                "url": "https://ricette.giallozafferano.it/Tiramisu-alla-zucca.html"
+            },
+            {
+                "name": "Tiramisù di pandoro",
+                "url": "https://ricette.giallozafferano.it/Tiramisu-di-pandoro.html"
+            }
+        ],
+        "scraped_at": "2026-01-11 17:51:58",
+        "category": "Dolci",
+        "prep_time": "46 min",
+        "calories": "543",
+        "difficulty": "2"
+    },
+    {
+        "title": "Torta tenerina",
+        "url": "https://ricette.giallozafferano.it/Torta-tenerina.html",
+        "description": "La torta tenerina è un dolce tipico della città di Ferrara, che grazie alla sua golosità ha conquistato tutto il paese... nessuno infatti riesce a resistere ad una fetta di questa fantastica torta al cioccolato ! Sarà merito della fragrante crosticina esterna o della sua consistenza fondente che si scioglie in bocca ad ogni assaggio? Noi ci siamo innamorati di entrambi, ma una cosa è certa: il suo intenso sapore di cioccolato mette d'accordo tutti! La torta tenerina è una torta con pochi ingredienti, senza lievito che ha la particolarità di rimanere bassa e umida all'interno, proprio come il nome suggerisce: nel dialetto ferrarese veniva chiamata anche \" Torta Taclenta\", che in italiano significa appiccicosa. Un dessert semplice da realizzare, dal successo garantito: per esaltare tutto il suo sapore provate a servirlo insieme ad una delicata crema al mascarpone, sentirete che bontà.. perfetta per ogni occasione e per la festa del papà ! Ecco altre versioni da provare: E se avete poco tempo potete realizzare la nostra golosa torta al cioccolato veloce !",
+        "ingredients": [
+            {
+                "group": "Ingredienti per uno stampo da 24-26 cm di diametro",
+                "items": [
+                    {
+                        "item": "Cioccolato fondente al 55%",
+                        "quantity": "200 g"
+                    },
+                    {
+                        "item": "Burro",
+                        "quantity": "100 g"
+                    },
+                    {
+                        "item": "Uova",
+                        "quantity": "medie 4"
+                    },
+                    {
+                        "item": "Zucchero",
+                        "quantity": "150 g"
+                    },
+                    {
+                        "item": "Farina 00",
+                        "quantity": "50 g"
+                    }
+                ]
+            },
+            {
+                "group": "per spolverizzare",
+                "items": [
+                    {
+                        "item": "Zucchero a velo",
+                        "quantity": "q.b."
+                    }
+                ]
+            }
+        ],
+        "instructions": "Per preparare la torta tenerina iniziate a tritare finemente il cioccolato, poi trasferitelo in una bastardella posta in un tegame con acqua (possibilmente l'acqua non dovrebbe venire a contatto con il fondo della bastardella o pentolino in cui avete versato il cioccolato) e scioglietelo a bagnomaria, mescolando di continuo. Solo quando il cioccolato sarà già sciolto, ma non eccessivamente caldo unite il burro a pezzetti. Lasciate sciogliere anche questo continuando a mescolare. Poiché l’esatta temperatura di fusione del cioccolato è intorno ai 50°, il burro va aggiunto solo quando il cioccolato è sciolto, facendo in modo che non superi il suo punto di fusione (che è di circa 32°), ed evitando quindi che si separi. Lasciate intiepidire il composto di cioccolato e burro, mescolandolo di tanto in tanto, e nel frattempo separate i tuorli dagli albumi in due ciotole differenti e capienti. A questo punto aggiungete a questi ultimi metà dello zucchero e montateli fino ad ottenere un composto fermo e spumoso. Tenete da parte gli albumi montati a neve e versate nei tuorli la parte restante di zucchero, poi montate il tutto a velocità moderata fino ad ottenere un composto chiaro e spumoso. A questo punto con le fruste ancora in azione versate a filo il composto di cioccolato e burro ormai tiepido. Continuate a sbattere fino a che non otterrete un composto uniforme. Aggiungete a questo punto gli albumi montati a neve in più riprese: aggiungete inizialmente circa 1/3 degli albumi mescolando con una spatola o con una frusta. Incorporate poi gli albumi restanti questa volta mescolando delicatamente dal basso verso l'alto. Unite la farina, precedentemente setacciata e mescolate sempre con una spatola facendo dei movimenti delicati dal basso verso l'alto. Dovrete ottenere un composto liscio ed uniforme. A questo punto imburrate e infarinate uno stampo a cerniera da 24-26 cm (così sarà più facile sformare la torta tenerina) e versate al suo interno l'impasto appena preparato (17-18). Cuocete in forno statico preriscaldato a 180° per 25 minuti (si sconsiglia l'utilizzo del forno ventilato che potrebbe cuocere troppo l'esterno della torta e troppo poco la parte interna). Una volta sfornata lasciate raffreddare la vostra torta tenerina prima di sformarla. Decorate con zucchero a velo e servite.",
+        "related_recipes": [
+            {
+                "name": "tenerina alla zucca",
+                "url": "https://ricette.giallozafferano.it/Torta-tenerina-alla-zucca.html"
+            },
+            {
+                "name": "tenerina al caffè",
+                "url": "https://ricette.giallozafferano.it/Torta-tenerina-al-caffe.html"
+            },
+            {
+                "name": "tenerina al cioccolato bianco",
+                "url": "https://ricette.giallozafferano.it/Torta-tenerina-al-cioccolato-bianco.html"
+            },
+            {
+                "name": "tenerina ai lamponi",
+                "url": "https://ricette.giallozafferano.it/Torta-tenerina-ai-lamponi.html"
+            }
+        ],
+        "scraped_at": "2026-01-11 17:51:59",
+        "category": "Dolci",
+        "prep_time": "45 min",
+        "calories": "369",
+        "difficulty": "2"
+    },
+    {
+        "title": "Tortino di cioccolato con cuore fondente",
+        "url": "https://ricette.giallozafferano.it/Tortino-di-cioccolato-con-cuore-fondente.html",
+        "description": "Tra i dolci facili e veloci il tortino di cioccolato con cuore fondente è senz’altro il più irresistibile! Un goloso scrigno monoporzione che nasconde una sorpresa morbida e avvolgente. Il segreto del cuore caldo? Sta tutto nella cottura, classica in forno o in friggitrice ad aria ! E grazie allo chef Luca De Santi scopriremo come ottenere un risultato perfetto in poche semplici mosse. Ideale da preparare in anticipo e cuocere all’ultimo minuto per stupire i propri ospiti al momento del dessert, il tortino di cioccolato con cuore fondente è un vero e proprio piacere per il palato da concedersi anche da soli per risollevare l’umore nelle giornate più grigie. Oppure, perché no, potrebbe essere un asso nella manica per concludere il menù di San Valentino … non vi resta quindi che scegliere l’occasione e seguire la ricetta! Provate anche questi tortini dal cuore morbido: Fra i dolci di San Valentino vi consigliamo di non perdere il cuore morbido al cioccolato e fave di tonka della cheesecake San Valentino, un'altra deliziosa idea per il vostro menù da fare a casa.",
+        "ingredients": [
+            {
+                "group": "Per 4 tortini",
+                "items": [
+                    {
+                        "item": "Cioccolato fondente al 70%",
+                        "quantity": "110 g"
+                    },
+                    {
+                        "item": "Burro",
+                        "quantity": "a temperatura ambiente 110 g"
+                    },
+                    {
+                        "item": "Uova",
+                        "quantity": "(2 grandi) 120 g"
+                    },
+                    {
+                        "item": "Zucchero",
+                        "quantity": "40 g"
+                    },
+                    {
+                        "item": "Farina 00",
+                        "quantity": "25 g"
+                    }
+                ]
+            },
+            {
+                "group": "per gli stampini",
+                "items": [
+                    {
+                        "item": "Burro",
+                        "quantity": "q.b."
+                    },
+                    {
+                        "item": "Farina 00",
+                        "quantity": "q.b."
+                    }
+                ]
+            },
+            {
+                "group": "per spolverizzare",
+                "items": [
+                    {
+                        "item": "Zucchero a velo",
+                        "quantity": "q.b."
+                    }
+                ]
+            }
+        ],
+        "instructions": "Per realizzare il tortino di cioccolato con cuore fondente per prima cosa sciogliete il cioccolato a bagnomaria insieme al burro, mescolando continuamente. Una volta sciolto, lasciatelo raffreddare fino alla temperatura di 30°. Se non avete un termometro potete lasciarlo a temperatura ambiente per circa 20-25 minuti. Nel frattempo imburrate e infarinate 4 stampini di alluminio. Quando avrà raggiunto i 30°, trasferite il composto di burro e cioccolato in un mixer con lame di acciaio. Mentre il mixer è in funzione unite lo zucchero all’interno e aspettate che sia ben amalgamato, poi versate a filo le uova sbattute. Quando anche le uova saranno state assorbite aggiungete la farina e continuate a frullare per ottenere un composto liscio e omogeneo. Riempite gli stampini con 70 g di composto l’uno, aiutandovi con un sac-à-poche o un cucchiaio ; il composto dovrà arrivare a circa due terzi dello stampino. Mettete gli stampini in congelatore per almeno 6 ore, meglio se per una notte intera. Quando i tortini saranno congelati, disponeteli in una teglia e cuocete in forno ventilato preriscaldato a 190° per 14-15 minuti, sul ripiano medio. Trascorso il tempo di cottura, sformateli delicatamente capovolgendo gli stampini sul piatto, poi spolverizzate con zucchero a velo e servite subito il vostro tortino di cioccolato con cuore fondente !",
+        "related_recipes": [
+            {
+                "name": "Tortino al cioccolato con cuore fondente bianco",
+                "url": "https://ricette.giallozafferano.it/Tortino-al-cioccolato-con-cuore-fondente-bianco.html"
+            },
+            {
+                "name": "Tortino al cioccolato con cuore di lampone",
+                "url": "https://ricette.giallozafferano.it/Tortino-al-cioccolato-con-cuore-di-lampone.html"
+            },
+            {
+                "name": "Tortino al cioccolato e fragole",
+                "url": "https://ricette.giallozafferano.it/Tortino-al-cioccolato-e-fragole.html"
+            },
+            {
+                "name": "Tortini con cuore fondente bianco",
+                "url": "https://ricette.giallozafferano.it/Tortini-con-cuore-fondente-bianco.html"
+            },
+            {
+                "name": "Tortini al cioccolato bianco, latte condensato e lamponi",
+                "url": "https://ricette.giallozafferano.it/Tortini-al-cioccolato-bianco-latte-condensato-e-lamponi.html"
+            }
+        ],
+        "scraped_at": "2026-01-11 17:52:00",
+        "category": "Dolci",
+        "prep_time": "35 min",
+        "calories": "474",
+        "difficulty": "2"
+    },
+    {
+        "title": "Crema al mascarpone",
+        "url": "https://ricette.giallozafferano.it/Crema-al-mascarpone.html",
+        "description": "La crema al mascarpone è una preparazione classica della pasticceria italiana, famosa come base del tiramisù e irresistibile durante le feste di Natale e Capodanno, per accompagnare pandoro e panettone. Grazie alla sua consistenza vellutata e al gusto delicato, questa crema natalizia diventa anche un perfetto dessert al cucchiaio da servire in coppetta. In questa ricetta vi mostriamo come preparare una crema al mascarpone fatta in casa con uova pastorizzate, realizzando una pâte à bombe sicura e stabile. In alternativa, potete scegliere la crema al mascarpone senza uova, veloce e ideale per chi preferisce una versione più leggera o per evitare uova crude. Per un risultato davvero genuino potete anche provare il mascarpone fatto in casa : otterrete una crema ancora più ricca e naturale. Una volta pronta, utilizzatela per farcire i vostri dolci preferiti oppure servitela da sola, magari guarnita con lingue di gatto, frutti di bosco o una spolverata di cacao amaro. Ecco qualche idea per golosi dolci con il mascarpone : Scoprite anche queste varianti di crema con il mascarpone",
+        "ingredients": [
+            {
+                "group": "Ingredienti di base",
+                "items": [
+                    {
+                        "item": "Mascarpone",
+                        "quantity": "a temperatura ambiente 500 g"
+                    },
+                    {
+                        "item": "Zucchero",
+                        "quantity": "125 g"
+                    },
+                    {
+                        "item": "Tuorli",
+                        "quantity": "a temperatura ambiente 4"
+                    },
+                    {
+                        "item": "Acqua",
+                        "quantity": "50 g"
+                    }
+                ]
+            },
+            {
+                "group": "Per spolverizzare",
+                "items": [
+                    {
+                        "item": "Cacao amaro in polvere",
+                        "quantity": "q.b."
+                    }
+                ]
+            }
+        ],
+        "instructions": "Per preparare la crema al mascarpone versate in un pentolino l'acqua e lo zucchero semolato, mescolate leggermente e portate il composto a 121°C misurando la temperatura con un termometro da cucina ; se non avete un termometro, lo sciroppo sarà pronto quando in superficie si formeranno delle bollicine piccole e bianche. Poco prima di raggiungere i 121°C (quindi verso i 115°C), cominciate a montare i tuorli con le fruste elettriche oppure con una planetaria. Quando lo sciroppo avrà raggiunto i 121°C versatelo a filo sui tuorli, abbassando la velocità delle fruste e mantenendole in azione. Continuate a montare fino al completo raffreddamento. Si ottiene così la pate à bombe, la base di tante preparazioni di pasticceria. In una ciotola ammorbidite il mascarpone con una spatola, poi aggiungete poco alla volta il composto di tuorli oramai freddo. Incorporate con le fruste così da ottenere una crema omogenea. La vostra crema al mascarpone è pronta! Potete gustarla insieme a una fetta di panettone o pandoro per concludere un menù di Natale all'insegna della tradizione oppure come dessert al cucchiaio, guarnendo a piacere con del cacao amaro setacciato.",
+        "related_recipes": [
+            {
+                "name": "Zeppole con crema al mascarpone e caffè",
+                "url": "https://ricette.giallozafferano.it/Zeppole-con-crema-al-mascarpone-e-caffe.html"
+            },
+            {
+                "name": "Coppa al mascarpone con cioccolato e meringhe",
+                "url": "https://ricette.giallozafferano.it/Coppa-al-mascarpone-con-cioccolato-e-meringhe.html"
+            },
+            {
+                "name": "Torta sandwich con crema al mascarpone",
+                "url": "https://ricette.giallozafferano.it/Torta-sandwich-con-crema-al-mascarpone.html"
+            },
+            {
+                "name": "Dolce al cucchiaio mascarpone e arancia",
+                "url": "https://ricette.giallozafferano.it/Dolce-al-cucchiaio-mascarpone-e-arancia.html"
+            },
+            {
+                "name": "Crema al mascarpone con crumble",
+                "url": "https://ricette.giallozafferano.it/Crema-al-mascarpone-con-crumble.html"
+            },
+            {
+                "name": "Crema al mascarpone per pandoro e panettone",
+                "url": "https://ricette.giallozafferano.it/Crema-al-mascarpone-per-pandoro-e-panettone.html"
+            },
+            {
+                "name": "Crema per pandoro al cioccolato",
+                "url": "https://ricette.giallozafferano.it/Crema-per-pandoro-al-cioccolato.html"
+            }
+        ],
+        "scraped_at": "2026-01-11 17:52:02",
+        "category": "Dolci",
+        "prep_time": "25 min",
+        "calories": "774",
+        "difficulty": "1"
+    },
+    {
+        "title": "Crepe dolci e salate (ricetta base)",
+        "url": "https://ricette.giallozafferano.it/Crepes-dolci-e-salate-ricetta-base.html",
+        "description": "Che si tratti di un’amorevole mamma che prepara la merenda, di un gruppetto di studenti che fa una pausa dallo studio oppure di fanatici della cucina veloce ma pur sempre originale, le crepe sono sempre la scelta giusta! In questa ricetta delle crepe dolci e salate scoprirete come adattare l'impasto neutro alle farciture più golose, dalle crepe alla Nutella alle crespelle gorgonzola e radicchio, al forno o al prosciutto ! Ci sono soltanto poche cose da sapere per riuscire a preparare crepe dolci e salate perfette, ve le raccontiamo subito! Siamo certi che ne farete una bella scorta, scoprendo quanto è facile conservarle! Poi però fateci sapere qual è la vostra preferita! Ecco altre ricette per preparare un impasto delle crepe che soddisfi tutte le tue esigenze:",
+        "ingredients": [
+            {
+                "group": "Per la pastella (per 14 crepe del diametro di 18 cm)",
+                "items": [
+                    {
+                        "item": "Uova",
+                        "quantity": "(medie) 3"
+                    },
+                    {
+                        "item": "Farina 00",
+                        "quantity": "250 g"
+                    },
+                    {
+                        "item": "Latte intero",
+                        "quantity": "500 g"
+                    },
+                    {
+                        "item": "Burro",
+                        "quantity": "40 g"
+                    }
+                ]
+            },
+            {
+                "group": "Per ungere la crepiera",
+                "items": [
+                    {
+                        "item": "Burro",
+                        "quantity": "q.b."
+                    }
+                ]
+            }
+        ],
+        "instructions": "Per preparare le crepe dolci e salate iniziate sciogliendo dolcemente il burro in un pentolino. Lasciatelo intiepidire e nel frattempo rompete le uova in una ciotola dai bordi alti. Mescolate con una frusta e unite il latte. Continuate a mescolare sino ad ottenere un composto omogeneo. Aggiungete ora il burro tiepido e mescolate ancora. Posizionate un colino sul recipiente e poi setacciate la farina nella ciotola, (per comodità potete anche aggiungerla in due tempi e mescolare così da evitare la formazione di grumi). Poi con le fruste mescolate energicamente per assorbire la farina. Continuate a mescolare fino ad ottenere un composto omogeneo, vellutato e privo di grumi. A questo punto coprite la ciotola con della pellicola alimentare e lasciate riposare per almeno 30 minuti in frigorifero. Trascorso il tempo mescolate l’impasto per farlo rinvenire e poi scaldate una crepiera da 18 cm (o in alternativa una padella antiaderente sempre della stessa base) ed ungetela con una noce di burro. Una volta a temperatura versate un mestolo di impasto sufficiente a ricoprire la superficie della padella : potete aiutarvi con l'apposito stendi pastella per crepe oppure ruotare la padella fino a distribuire il composto uniformemente (fate attenzione a non spanderlo tutto sui bordi per evitare che al centro non rimanga pastella sufficiente a creare una crepe dalla superficie uniforme); si consiglia di eseguire queste operazioni molto in fretta, poiché la pastella cuocerà rapidamente. Trascorso circa 1 minuto a fuoco medio-basso, dovreste notare una leggera doratura, i bordi tenderanno a staccarsi perciò potrete girare la prima crepe aiutandovi con una paletta. Cuocete anche l'altro lato per 1 minuto circa, aspettando che prenda colore. Una volta cotta la prima, trasferitela su un piatto da portata o su di un tagliere. Ripetete questa operazione fino a finire l’impasto, ungendo di volta in volta la crepiera, dovreste ottenere così 14 crepe del diametro di 18 cm: impilate ogni crepe una sopra l’altra così resteranno morbide. Ecco pronte le vostre crepe dolci e salate, non vi resta che farcirle !",
+        "related_recipes": [
+            {
+                "name": "Crepe senza uova",
+                "url": "https://ricette.giallozafferano.it/Crepe-senza-uova.html"
+            },
+            {
+                "name": "Crepe senza glutine",
+                "url": "https://ricette.giallozafferano.it/Crepes-senza-glutine.html"
+            },
+            {
+                "name": "Crepe al cacao",
+                "url": "https://ricette.giallozafferano.it/Crepe-al-cacao.html"
+            },
+            {
+                "name": "Crepe di avena",
+                "url": "https://ricette.giallozafferano.it/Crepe-di-avena.html"
+            },
+            {
+                "name": "Crepe integrali",
+                "url": "https://ricette.giallozafferano.it/Crepes-integrali.html"
+            },
+            {
+                "name": "Crespelle agli spinaci",
+                "url": "https://ricette.giallozafferano.it/Crespelle-agli-spinaci.html"
+            },
+            {
+                "name": "Crepe senza latte",
+                "url": "https://ricette.giallozafferano.it/Crepe-senza-latte.html"
+            },
+            {
+                "name": "Crepe senza lattosio",
+                "url": "https://ricette.giallozafferano.it/Crepe-senza-lattosio.html"
+            }
+        ],
+        "scraped_at": "2026-01-11 17:52:03",
+        "category": "Dolci",
+        "prep_time": "25 min",
+        "calories": "131",
+        "difficulty": "2"
+    },
+    {
+        "title": "Besciamella",
+        "url": "https://ricette.giallozafferano.it/Besciamella.html",
+        "description": "La besciamella è una salsa di base tra le più versatili in cucina: facile e veloce da realizzare, è perfetta per dare una marcia in più a tanti piatti diversi, dalle lasagne alla pasta al forno, così come le verdure, come i finocchi gratinati o gli spinaci con besciamella, o al petto di pollo cremoso ! La sua paternità è rivendicata tanto dai francesi quanto dagli italiani. L’ipotesi più accreditata è che sia stata Caterina de’ Medici ad averla importata in Francia con il nome che aveva allora, ovvero “salsa colla”. Ma è grazie al cortigiano Louis de Béchameil che prese poi il nome di salsa besciamella nonostante Pellegrino Artusi preferisse italianizzarla nel suo ricettario con il nome di “balsamella”, ormai in disuso. Scoprite tutti i segreti per ottenere una besciamella perfetta fatta in casa cremosa e senza grumi e scommettiamo che non ricorrerete mai più a quella confezionata! Provate anche queste varianti",
+        "ingredients": [
+            {
+                "group": "Per 1 litro di besciamella",
+                "items": [
+                    {
+                        "item": "Latte intero",
+                        "quantity": "1 l"
+                    },
+                    {
+                        "item": "Burro",
+                        "quantity": "100 g"
+                    },
+                    {
+                        "item": "Farina 00",
+                        "quantity": "100 g"
+                    },
+                    {
+                        "item": "Sale fino",
+                        "quantity": "1 pizzico"
+                    },
+                    {
+                        "item": "Noce moscata",
+                        "quantity": "da grattugiare q.b."
+                    }
+                ]
+            }
+        ],
+        "instructions": "Per preparare la besciamella per prima cosa versate il latte in un pentolino, aggiungete la noce moscata e il sale, poi fatelo scaldare. Mettete il burro in un altro pentolino e fatelo sciogliere a fuoco dolce, poi aggiungete la farina in una volta sola. Mescolate vigorosamente con una frusta a mano per evitare la formazione di grumi. Continuate a mescolare fino ad ottenere un composto dorato, il roux. A questo punto stemperate il roux versando prima poco latte caldo e poi tutto il resto. Continuate a mescolare a fuoco dolce fino a raggiungere la consistenza desiderata ; cuocendo la besciamella per 5-6 minuti otterrete una densità media. La vostra besciamella è pronta per essere utilizzata!",
+        "related_recipes": [
+            {
+                "name": "Besciamella senza burro",
+                "url": "https://ricette.giallozafferano.it/Besciamella-senza-burro.html"
+            },
+            {
+                "name": "Besciamella senza glutine",
+                "url": "https://ricette.giallozafferano.it/Besciamella-senza-glutine.html"
+            },
+            {
+                "name": "Besciamella vegana",
+                "url": "https://ricette.giallozafferano.it/Besciamella-vegana.html"
+            }
+        ],
+        "scraped_at": "2026-01-11 17:52:04",
+        "category": "Salse e Sughi",
+        "prep_time": "15 min",
+        "calories": "368",
+        "difficulty": "1"
+    },
+    {
+        "title": "Pancake",
+        "url": "https://ricette.giallozafferano.it/Pancakes-allo-sciroppo-d-acero.html",
+        "description": "C’è qualcosa di profondamente rassicurante nel preparare i pancake al mattino. Il profumo del burro caldo, la pastella che sfrigola in padella e quel momento in cui la frittella perfetta prende forma: pochi gesti che trasformano una mattina qualunque in un momento speciale. Non a caso, questi dolci sono tra i simboli più amati della colazione americana, ma ormai sono entrati a pieno titolo anche nelle nostre abitudini quotidiane. Se cercate una ricetta facile, veloce e alla portata di tutti, la ricetta classica dei pancake è il punto di partenza perfetto. Bastano pochi ingredienti e in pochi minuti avrete dei pancake soffici, dorati e profumati. La magia sta nella semplicità, e il risultato è sorprendente: pancake facili e veloci, ma ricchi di gusto e adatti a ogni occasione. Perfetti per una colazione o per un brunch tra amici, i pancake americani si prestano a mille interpretazioni. Con lo sciroppo d’acero sono un classico intramontabile, ma sono deliziosi anche con frutta fresca, miele, yogurt, o creme spalmabili. In chiave più golosa, si trasformano in veri e propri dessert, magari accompagnati da una pallina di gelato o da cioccolato fondente fuso. Non mancano poi le varianti più leggere, ideali per chi vuole iniziare la giornata con una colazione sana : si possono preparare pancake con farine integrali, senza zucchero, senza burro o anche vegani. Insomma, c’è un pancake per tutti i gusti – dai più tradizionali ai più attenti alla salute – e tutti meritano un posto speciale tra i migliori dolci da colazione. In fondo, bastano una padella calda e un po’ di fantasia per rendere unica ogni mattina! Quali sono gli ingredienti principali dei pancake? La ricetta originale prevede uova, burro, zucchero, latte, farina e lievito. In questa versione abbiamo scelto di montare gli albumi a neve per ottenere delle frittelle più alte, soffici e spugnose, ma se preferite potete omettere questo passaggio e utilizzare direttamente le uova intere. Esistono poi tantissime varianti dei pancake, perfette per assecondare diversi gusti ed esigenze... da quelli senza uova a quelli senza burro, ecco qualche idea per realizzare degli ottimi pancake con impasti alternativi: Scoprite anche queste golose ricette di pancake",
+        "ingredients": [
+            {
+                "group": "Per circa 12 pancake",
+                "items": [
+                    {
+                        "item": "Farina 00",
+                        "quantity": "125 g"
+                    },
+                    {
+                        "item": "Latte intero",
+                        "quantity": "200 g"
+                    },
+                    {
+                        "item": "Burro",
+                        "quantity": "25 g"
+                    },
+                    {
+                        "item": "Zucchero",
+                        "quantity": "15 g"
+                    },
+                    {
+                        "item": "Uova",
+                        "quantity": "medie 2"
+                    },
+                    {
+                        "item": "Lievito in polvere per dolci",
+                        "quantity": "6 g"
+                    },
+                    {
+                        "item": "Sale fino",
+                        "quantity": "1 pizzico"
+                    }
+                ]
+            },
+            {
+                "group": "Per ungere la padella",
+                "items": [
+                    {
+                        "item": "Burro",
+                        "quantity": "q.b."
+                    }
+                ]
+            },
+            {
+                "group": "per guarnire",
+                "items": [
+                    {
+                        "item": "Sciroppo di acero",
+                        "quantity": "q.b."
+                    },
+                    {
+                        "item": "More",
+                        "quantity": "q.b."
+                    },
+                    {
+                        "item": "Lamponi",
+                        "quantity": "q.b."
+                    }
+                ]
+            }
+        ],
+        "instructions": "Ricetta pancake: per prima cosa fate sciogliere il burro in un pentolino e lasciate intiepidire, poi separate i tuorli dagli albumi. Versate nella ciotola con i tuorli il burro fuso intiepidito e il latte. Mescolate con una frusta, poi unite la farina setacciata. Setacciate anche il lievito e incorporate le polveri con la frusta, poi aggiungete il sale e mescolate ancora per ottenere un composto omogeneo. Ora prendete la ciotola con gli albumi e iniziate a montarli con le fruste elettriche. Versate gradualmente lo zucchero e continuate a lavorare con le fruste per montare gli albumi a neve. Aggiungete gli albumi montati a neve nel composto di tuorli. Mescolate delicatamente con la frusta dal basso verso l’alto per incorporarli in modo uniforme. Siete pronti per cuocere i pancake: scaldate una padella antiaderente con pochissimo burro aiutandovi con della carta da cucina, poi versate al centro un mestolo di impasto. Lasciate cuocere a fuoco moderato per un paio di minuti; quando compariranno le prime bollicine girate delicatamente il pancake con l’aiuto di una spatola e cuocetelo brevemente anche dall’altro lato fino a doratura. Man mano che saranno pronti trasferiteli su un piatto senza impilarli, in modo che non si sgonfino. Una volta che saranno tutti pronti, potete impilare i vostri pancake e servirli con abbondante sciroppo d’acero !",
+        "related_recipes": [
+            {
+                "name": "Pancake senza uova",
+                "url": "https://ricette.giallozafferano.it/Pancake-senza-uova.html"
+            },
+            {
+                "name": "Pancake senza lievito",
+                "url": "https://ricette.giallozafferano.it/Pancake-senza-lievito.html"
+            },
+            {
+                "name": "Pancake senza latte",
+                "url": "https://ricette.giallozafferano.it/Pancake-senza-latte.html"
+            },
+            {
+                "name": "Pancake senza burro",
+                "url": "https://ricette.giallozafferano.it/Pancakes-senza-burro.html"
+            },
+            {
+                "name": "Pancake senza glutine",
+                "url": "https://ricette.giallozafferano.it/Pancake-senza-glutine.html"
+            },
+            {
+                "name": "Pancake light",
+                "url": "https://ricette.giallozafferano.it/Pancake-light.html"
+            },
+            {
+                "name": "Pancake integrali",
+                "url": "https://ricette.giallozafferano.it/Pancake-integrali.html"
+            },
+            {
+                "name": "Pancake proteici",
+                "url": "https://ricette.giallozafferano.it/Pancake-proteici.html"
+            },
+            {
+                "name": "Pancake allo yogurt",
+                "url": "https://ricette.giallozafferano.it/Pancake-allo-yogurt.html"
+            },
+            {
+                "name": "Pancake con albumi",
+                "url": "https://ricette.giallozafferano.it/Pancake-con-albumi.html"
+            },
+            {
+                "name": "Fluffy pancake",
+                "url": "https://ricette.giallozafferano.it/Fluffy-pancake.html"
+            },
+            {
+                "name": "Pancake finlandesi",
+                "url": "https://ricette.giallozafferano.it/Pancake-finlandesi.html"
+            },
+            {
+                "name": "Pancake al cacao",
+                "url": "https://ricette.giallozafferano.it/Pancake-al-cacao.html"
+            },
+            {
+                "name": "Pancake al caffè",
+                "url": "https://ricette.giallozafferano.it/Pancakes-al-caffe.html"
+            },
+            {
+                "name": "Pancake bicolore",
+                "url": "https://ricette.giallozafferano.it/Pancake-bicolore.html"
+            },
+            {
+                "name": "Pancake giganti americani",
+                "url": "https://ricette.giallozafferano.it/Pancake-giganti-americani.html"
+            },
+            {
+                "name": "Pancake salati",
+                "url": "https://ricette.giallozafferano.it/Pancake-salati.html"
+            },
+            {
+                "name": "Pancake ripieni di cioccolato",
+                "url": "https://ricette.giallozafferano.it/Pancake-ripieni-di-cioccolato.html"
+            },
+            {
+                "name": "Pancake alla banana",
+                "url": "https://ricette.giallozafferano.it/Pancake-alla-banana.html"
+            },
+            {
+                "name": "Pancake alle mele",
+                "url": "https://ricette.giallozafferano.it/Pancake-alle-mele.html"
+            },
+            {
+                "name": "Pancake banana e carote",
+                "url": "https://ricette.giallozafferano.it/Pancake-banana-e-carote.html"
+            }
+        ],
+        "scraped_at": "2026-01-11 17:52:05",
+        "category": "Dolci",
+        "prep_time": "30 min",
+        "calories": "263",
+        "difficulty": "2"
+    },
+    {
+        "title": "Torta di mele",
+        "url": "https://ricette.giallozafferano.it/Torta-rustica-di-mele.html",
+        "description": "Le mele da sempre sono protagoniste indiscusse dei dolci casalinghi, come questa intramontabile torta di mele, golosa, soffice e aromatica, è il miglior comfort food che si possa desiderare! Del resto chi l’ha provata sa bene quanto sia rassicurante una torta di mele fatta in casa, con la sua semplice dolcezza, la sua morbida consistenza e il suo inconfondibile profumo. Intramontabili sapori che rievocano ricordi di famiglia, ciascuno con la propria ricetta da custodire gelosamente come il più prezioso dei tesori. Qui vi riveliamo la nostra versione della torta di mele più classica che ci sia, perfetta per concedersi una coccola golosa insieme ai propri cari. Ma le varianti sono tante: da quella vegan a alla torta di mele light o all'acqua, la mitica torta di mele senza burro, senza uova o la versione con mascarpone, con le mele invisibili o la torta di mele a raggi ! Ami le mele? Scopri anche queste ricette",
+        "ingredients": [
+            {
+                "group": "Per uno stampo da 22 cm di diametro",
+                "items": [
+                    {
+                        "item": "Mele renette",
+                        "quantity": "(700 g pulite) 930 g"
+                    },
+                    {
+                        "item": "Zucchero",
+                        "quantity": "200 g"
+                    },
+                    {
+                        "item": "Farina 00",
+                        "quantity": "250 g"
+                    },
+                    {
+                        "item": "Burro",
+                        "quantity": "100 g"
+                    },
+                    {
+                        "item": "Latte intero",
+                        "quantity": "(a temperatura ambiente) 150 g"
+                    },
+                    {
+                        "item": "Uova",
+                        "quantity": "(a temperatura ambiente) 2"
+                    },
+                    {
+                        "item": "Limoni",
+                        "quantity": "1"
+                    },
+                    {
+                        "item": "Lievito in polvere per dolci",
+                        "quantity": "16 g"
+                    },
+                    {
+                        "item": "Cannella in polvere",
+                        "quantity": "½ cucchiaino"
+                    },
+                    {
+                        "item": "Sale fino",
+                        "quantity": "1 pizzico"
+                    }
+                ]
+            },
+            {
+                "group": "per cospargere",
+                "items": [
+                    {
+                        "item": "Zucchero a velo",
+                        "quantity": "q.b."
+                    }
+                ]
+            }
+        ],
+        "instructions": "Per preparare la torta di mele come prima cosa sbucciate le mele, tagliatele a spicchi ed eliminate il torsolo. Tagliatele poi a fettine sottili dal lato corto. In una ciotola versate le uova e lo zucchero. Montate con le fruste elettriche e non appena il composto sarà chiaro e spumoso aggiungete un pizzico di sale. Versate poi anche il burro tiepido e la cannella. Aggiungete la scorza di limone grattugiata e sbattete ancora. Setacciate all'interno la farina. Setacciate anche il lievito e mescolate ancora con le fruste, aggiungendo il latte lentamente. Dovrete ottenere un composto liscio e cremoso. Versate all'interno le mele e mescolate bene. Non preoccupatevi se sembrano molte. Trasferite il composto all'interno di uno stampo da 22 cm imburrata e cosparsa di zucchero. Livellate la superficie e cuocete in forno statico preriscaldato a 180° per 55 minuti. Fate la prova dello stecchino prima di sfornare il dolce, poi lasciatelo intiepidire e sformatelo. Spolverizzate con zucchero a velo e servite la vostra torta di mele.",
+        "related_recipes": [
+            {
+                "name": "Dolce con annurche e zabaione",
+                "url": "https://ricette.giallozafferano.it/Dolce-con-annurche-e-zabaione.html"
+            },
+            {
+                "name": "Mele cotte al microonde",
+                "url": "https://ricette.giallozafferano.it/Mele-cotte-al-microonde.html"
+            },
+            {
+                "name": "Torta di mele sofficissima",
+                "url": "https://ricette.giallozafferano.it/Torta-di-mele-soffice.html"
+            },
+            {
+                "name": "Muffin alle mele",
+                "url": "https://ricette.giallozafferano.it/Muffin-alle-mele.html"
+            },
+            {
+                "name": "Ciambelle di mele in sfoglia",
+                "url": "https://ricette.giallozafferano.it/Ciambelle-di-mele-in-sfoglia.html"
+            },
+            {
+                "name": "Torta di mele della nonna",
+                "url": "https://ricette.giallozafferano.it/Torta-di-mele-della-nonna.html"
+            },
+            {
+                "name": "Torta cocco e mele",
+                "url": "https://ricette.giallozafferano.it/Torta-cocco-e-mele.html"
+            },
+            {
+                "name": "Torta di mele senza zucchero",
+                "url": "https://ricette.giallozafferano.it/Torta-di-mele-senza-zucchero.html"
+            },
+            {
+                "name": "Torta mele e yogurt",
+                "url": "https://ricette.giallozafferano.it/Torta-mele-e-yogurt.html"
+            },
+            {
+                "name": "Torta di mele e noci",
+                "url": "https://ricette.giallozafferano.it/Torta-di-mele-e-noci.html"
+            },
+            {
+                "name": "Galette alle mele",
+                "url": "https://ricette.giallozafferano.it/Galette-alle-mele.html"
+            },
+            {
+                "name": "Torta rovesciata alle mele vegana",
+                "url": "https://ricette.giallozafferano.it/Torta-rovesciata-alle-mele-vegana.html"
+            }
+        ],
+        "scraped_at": "2026-01-11 17:52:07",
+        "category": "Dolci",
+        "prep_time": "1 h 15 min",
+        "calories": "402",
+        "difficulty": "2"
+    },
+    {
+        "title": "Crema pasticcera",
+        "url": "https://ricette.giallozafferano.it/Crema-pasticcera.html",
+        "description": "Uova, latte, zucchero e vaniglia. Pochi ingredienti per una delle creme più amate: la crema pasticcera. Scopriamo insieme al Maestro Pasticciere Iginio Massari come fare la crema pasticcera semplice e perfetta, liscia, vellutata e senza grumi. Questa crema è tra le più usate in pasticceria, insieme a chantilly o lo zabaione, per farcire moltissimi dolci. Nei bignè, nei dolci di pasta sfoglia (come cannoncini, vol-au-vent, millefoglie), ma anche tra gli strati morbidi del più classico pan di spagna o come farcitura di una semplice crostata alla crema, la crema pasticcera è sempre la benvenuta, anche aromatizzata, come la crema pasticcera al rum o all'arancia ! Questa preparazione di base di pasticceria serve anche a realizzare semifreddi, budini e tanti dolci al cucchiaio, come la nostra deliziosa torta mattonella ; inoltre è una componente fondamentale di altre creme di pasticceria, per esempio la diplomatica e la mousseline. E' una preparazione molto versatile: basta modificare appena le dosi di alcuni ingredienti per ottenere consistenze diverse e appropriate all'uso che ne farete! Ad esempio per addensarla maggiormente è sufficiente utilizzare più amido di mais, al contrario dovrete diminuire la dose nel caso vorreste gustarla al cucchiaio. Seguite il procedimento passo passo con il Maestro Pasticciere Iginio Massari e scoprite tutti gli accorgimenti per prepararla! Lasciatevi tentare anche da queste varianti di crema pasticcera",
+        "ingredients": [
+            {
+                "group": "per circa 750 g di crema pasticcera",
+                "items": [
+                    {
+                        "item": "Latte intero",
+                        "quantity": "500 g"
+                    },
+                    {
+                        "item": "Zucchero",
+                        "quantity": "130 g"
+                    },
+                    {
+                        "item": "Tuorli",
+                        "quantity": "(circa 7) 125 g"
+                    },
+                    {
+                        "item": "Amido di riso",
+                        "quantity": "40 g"
+                    },
+                    {
+                        "item": "Baccello di vaniglia",
+                        "quantity": "2"
+                    },
+                    {
+                        "item": "Scorza di limone",
+                        "quantity": "½"
+                    }
+                ]
+            }
+        ],
+        "instructions": "Per preparare la crema pasticcera come prima cosa inserite in freezer una ciotola di vetro. A questo punto ricavate i semi dalla vaniglia e tagliate i baccelli in pezzi. Versate il latte in un tegame e aggiungete sia i semi che i baccelli della vaniglia. Ricavate dal limone la scorza, prelevando solo la parte gialla, e unitela nel tegame. Accendete il fuoco e scaldate il tutto a fiamma bassa portando a bollore e mescolando di tanto in tanto. In un altro tegame versate i tuorli, lo zucchero e l'amido di riso. Utilizzando un frustino morbido mescolate per ottenere una consistenza cremosa e liscia, priva di grumi. Non appena il latte sfiorerà il bollore, trasferitelo all'interno dei tuorli in 3 volte filtrandolo con un colino e mescolando sempre con la frusta. Trasferite di nuovo sul fuoco e mescolate, sempre a fiamma bassa, in continuazione fino a che la crema non si sarà addensata. Per raffreddarla velocemente riprendete la ciotola dal freezer e versate la crema all'interno. Mescolate con una frusta molto velocemente, fino a che non avrete portato la crema a 50°, al di sotto del punto di cottura. Dovrete ottenere una crema liscia e molto lucida. A questo punto la crema pasticcera è pronta, potrete utilizzarla o conservarla in frigorifero coprendola con pellicola.",
+        "related_recipes": [
+            {
+                "name": "Crema pasticcera al cioccolato",
+                "url": "https://ricette.giallozafferano.it/Crema-pasticcera-al-cioccolato.html"
+            },
+            {
+                "name": "Crema pasticcera al cioccolato bianco",
+                "url": "https://ricette.giallozafferano.it/Crema-pasticcera-al-cioccolato-bianco.html"
+            },
+            {
+                "name": "Crema alla Nutella",
+                "url": "https://ricette.giallozafferano.it/Crema-alla-Nutella.html"
+            },
+            {
+                "name": "Crema pasticcera allo zafferano",
+                "url": "https://ricette.giallozafferano.it/Crema-pasticcera-allo-zafferano.html"
+            },
+            {
+                "name": "Crema pasticcera vegana",
+                "url": "https://ricette.giallozafferano.it/Crema-pasticcera-vegana.html"
+            },
+            {
+                "name": "Crema al pistacchio",
+                "url": "https://ricette.giallozafferano.it/Crema-al-pistacchio.html"
+            },
+            {
+                "name": "Crema pasticcera allo zafferano",
+                "url": "https://ricette.giallozafferano.it/Crema-pasticcera-allo-zafferano.html"
+            },
+            {
+                "name": "Crema per panettone",
+                "url": "https://ricette.giallozafferano.it/Crema-per-panettone.html"
+            }
+        ],
+        "scraped_at": "2026-01-11 17:52:08",
+        "category": "Dolci",
+        "prep_time": "23 min",
+        "calories": "Not Available",
+        "difficulty": "2"
+    },
+    {
+        "title": "Lasagne alla bolognese",
+        "url": "https://ricette.giallozafferano.it/Lasagne-alla-Bolognese.html",
+        "description": "Le lasagne alla bolognese sono un'istituzione, la lasagna al forno per eccellenza, il piatto tipico della domenica. Questo primo piatto ricco e saporito è originario dell' Emilia e, nello specifico, della città di Bologna. Una ricetta conosciuta, apprezzata, fatta e rifatta per le feste e non solo, che è diventata un vero e proprio piatto simbolo della cucina italiana, assaggiato e condiviso in tutto il mondo. La lasagna è composta da strati di pasta fresca verde all'uovo, conditi con il classico ragù alla bolognese, besciamella e formaggio grattugiato. Ovviamente delle lasagne non mancano numerose e prelibate varianti, come le lasagne ai funghi, perfette per i menù autunnali, le lasagne ai carciofi, per la stagione invernale e primaverile, oppure ancora la lasagna bianca, senza pomodoro, e quella senza besciamella. Ci sono anche simpatiche rivisitazioni come le girelle di lasagne al ragù o i pacchetti di lasagne con zucchine, o metodi di cottura alternativi, come le lasagne al pesto al microonde. Dalla preparazione agli ingredienti, questa pietanza è la quintessenza della \"ricchezza\" della cucina tradizionale bolognese, celebre anche per molte altre ricette di pasta fresca e non solo... basti pensare allo gnocco fritto. Non vi resta che preparare e gustare le lasagne alla bolognese in compagnia della vostra famiglia per un giorno davvero speciale... ad esempio come ricetta di pasta del menù di Natale per festeggiare all'insegna della tradizione ! Scoprite anche la variante delle lasagne verdi con ragù alla bolognese e tante altre appetitose ricette di lasagne : Scoprite anche queste sfiziose varianti vegetariane",
+        "ingredients": [
+            {
+                "group": "per la sfoglia all'uovo verde",
+                "items": [
+                    {
+                        "item": "Semola di grano duro rimacinata",
+                        "quantity": "175 g"
+                    },
+                    {
+                        "item": "Farina 00",
+                        "quantity": "75 g"
+                    },
+                    {
+                        "item": "Spinaci",
+                        "quantity": "125 g"
+                    },
+                    {
+                        "item": "Uova",
+                        "quantity": "1"
+                    },
+                    {
+                        "item": "Tuorli",
+                        "quantity": "2"
+                    }
+                ]
+            },
+            {
+                "group": "per il ragù",
+                "items": [
+                    {
+                        "item": "Macinato di manzo",
+                        "quantity": "700 g"
+                    },
+                    {
+                        "item": "Passata di pomodoro",
+                        "quantity": "350 g"
+                    },
+                    {
+                        "item": "Pancetta fresca",
+                        "quantity": "270 g"
+                    },
+                    {
+                        "item": "Carote",
+                        "quantity": "110 g"
+                    },
+                    {
+                        "item": "Sedano",
+                        "quantity": "110 g"
+                    },
+                    {
+                        "item": "Cipolle dorate",
+                        "quantity": "110 g"
+                    },
+                    {
+                        "item": "Brodo vegetale",
+                        "quantity": "350 g"
+                    },
+                    {
+                        "item": "Vino rosso",
+                        "quantity": "110 g"
+                    },
+                    {
+                        "item": "Doppio concentrato di pomodoro",
+                        "quantity": "2 cucchiai"
+                    },
+                    {
+                        "item": "Olio extravergine d'oliva",
+                        "quantity": "6 cucchiai"
+                    },
+                    {
+                        "item": "Sale fino",
+                        "quantity": "q.b."
+                    },
+                    {
+                        "item": "Pepe nero",
+                        "quantity": "q.b."
+                    }
+                ]
+            },
+            {
+                "group": "per la besciamella",
+                "items": [
+                    {
+                        "item": "Latte intero",
+                        "quantity": "800 g"
+                    },
+                    {
+                        "item": "Burro",
+                        "quantity": "50 g"
+                    },
+                    {
+                        "item": "Farina 00",
+                        "quantity": "50 g"
+                    },
+                    {
+                        "item": "Noce moscata",
+                        "quantity": "q.b."
+                    },
+                    {
+                        "item": "Sale fino",
+                        "quantity": "q.b."
+                    }
+                ]
+            },
+            {
+                "group": "per la superficie",
+                "items": [
+                    {
+                        "item": "Parmigiano Reggiano DOP",
+                        "quantity": "150 g"
+                    },
+                    {
+                        "item": "Burro",
+                        "quantity": "q.b."
+                    }
+                ]
+            }
+        ],
+        "instructions": "Per preparare le lasagne alla bolognese iniziate dal ragù: mondate e tritate al coltello cipolla, sedano e carota. Tritate anche la pancetta fresca. In una casseruola antiaderente, o di alluminio o in ghisa smaltata, fate sciogliere la pancetta tritata nell’olio caldo. Cuocete a fuoco moderato e costante finché non si sarà ben rosolata. Aggiungete le verdure per il soffritto e fate appassire il battuto lentamente a calore medio-basso, mescolando spesso (la cipolla non deve assolutamente prendere il sapore di bruciato). Alzate la fiamma e unite la carne macinata, rimestando sempre accuratamente. Cuocete per una decina di minuti, deve \"sfrigolare\" e risultare asciutto. Sfumate con il vino e lasciatelo evaporare e ritirare completamente, fino a quando non si sentirà più odore di alcol, poi aggiungete il doppio concentrato di pomodoro. Versate anche la passata di pomodoro e il brodo caldo. Proseguite la cottura a fuoco dolce con il coperchio per 2 ore circa. A metà cottura regolate di sale e di pepe. Il ragù dovrà risultare di un bel colore arancione scuro, avvolgente e cremoso. Mentre il ragù cuoce potete occuparvi della pasta fresca: come prima cosa versate gli spinaci in un tegame, aggiungete poca acqua, coprite con un coperchio e cuocete fino a che non saranno appassiti; in totale ci vorranno 5-6 minuti. Scolate gli spinaci, lasciateli intiepidire e strizzateli bene. Trasferiteli in un mixer e frullateli con l’uovo e i 2 tuorli fino ad ottenere una purea. Su una spianatoia versate la semola e la farina 00, create un incavo al centro e aggiungete il composto di uova e spinaci. Iniziate ad impastare il tutto con una forchetta, incorporando pian piano il composto alla farina. Una volta raccolti gli ingredienti, trasferite l'impasto sulla spianatoia e proseguite lavorando a mano. Impastate bene fino ad ottenere un panetto omogeneo. Avvolgetelo nella pellicola e lasciate riposare per 30 minuti a temperatura ambiente. Nel frattempo preparate la besciamella: in un pentolino mettete a scaldare il latte, senza farlo bollire. In un altro tegame versate il burro e lasciatelo fondere. Aggiungete la farina in una volta sola e cuocete per pochi minuti fino ad ottenere un roux dorato. Versate quindi il latte caldo in 3 volte, mescolando bene. Salate e aromatizzate con la noce moscata. Continuate a mescolare fino ad ottenere una besciamella cremosa, ma abbastanza fluida. Trasferite in una ciotolina, coprite con pellicola a contatto e tenete da parte. Trascorso il tempo di riposo della pasta, riprendete il panetto e prelevatene un pezzo, avendo cura di coprire l'impasto restante con la pellicola per non farlo seccare. Spolverizzate la porzione di pasta, appiattitela leggermente e passatela nella sfogliatrice partendo dallo spessore più grande. Ripiegate la sfoglia e infarinatela leggermente. Continuate a passare l'impasto tra i rulli riducendo man mano lo spessore fino ad ottenere una sfoglia di mezzo mm. Trasferitela su una spianatoia e ritagliate dei rettangoli di 26x17 cm ; la sfoglia da cruda deve essere grande 1 cm in meno rispetto alla dimensione della teglia che andrete a utilizzare. Mettete sul fuoco una pentola colma d'acqua e salatela leggermente. Quando inizierà a bollire immergete una sfoglia alla volta, aspettate 30-40 secondi e, aiutandovi con una schiumarola, scolatela. Trasferitela su un vassoio con un canovaccio e tamponate per togliere l'acqua in eccesso. Proseguite in questo modo affiancando le sfoglie sbollentate, senza sovrapporle. Non appena anche il ragù sarà pronto aggiustate di sale e pepe e procedete alla composizione delle lasagne. Prendete una teglia da lasagna grande 30x20 cm e distribuite sul fondo prima uno strato sottile di besciamella e poi uno di ragù. Posizionate la prima sfoglia, poi proseguite con uno strato di besciamella e uno di ragù. Distribuite una parte del Parmigiano grattugiato. Posizionate sopra un'altra sfoglia di pasta e continuate in questo modo fino a realizzare 6 strati. Dopo aver posizionato l'ultima sfoglia coprite interamente la pasta con il ragù rimanente, poi cospargete con il formaggio grattugiato. Aggiungete dei ciuffetti di burro e cuocete in forno statico preriscaldato a 170° per 40 minuti. Le lasagne alla bolognese sono pronte, lasciatele intiepidire prima di servirle.",
+        "related_recipes": [
+            {
+                "name": "Lasagne di Carnevale",
+                "url": "https://ricette.giallozafferano.it/Lasagne-di-carnevale.html"
+            },
+            {
+                "name": "Lasagne al ragù di salsiccia",
+                "url": "https://ricette.giallozafferano.it/Lasagne-con-ragu-di-salsiccia.html"
+            },
+            {
+                "name": "Lasagne al ragù bianco e zucchine",
+                "url": "https://ricette.giallozafferano.it/Lasagne-al-ragu-bianco-e-zucchine.html"
+            },
+            {
+                "name": "Lasagne zucca e salsiccia",
+                "url": "https://ricette.giallozafferano.it/Lasagne-zucca-e-salsiccia.html"
+            },
+            {
+                "name": "Lasagne montanare",
+                "url": "https://ricette.giallozafferano.it/Lasagne-montanare.html"
+            },
+            {
+                "name": "Lasagne al pistacchio",
+                "url": "https://ricette.giallozafferano.it/Lasagne-al-pistacchio.html"
+            },
+            {
+                "name": "Fagottini di lasagne",
+                "url": "https://ricette.giallozafferano.it/Fagottini-di-lasagne.html"
+            },
+            {
+                "name": "Lasagne vegetariane",
+                "url": "https://ricette.giallozafferano.it/Lasagne-vegetariane.html"
+            },
+            {
+                "name": "Lasagne alla Norma",
+                "url": "https://ricette.giallozafferano.it/Lasagne-alla-Norma.html"
+            },
+            {
+                "name": "Lasagne al pesto",
+                "url": "https://ricette.giallozafferano.it/Lasagne-al-pesto.html"
+            },
+            {
+                "name": "Lasagne alle zucchine",
+                "url": "https://ricette.giallozafferano.it/Lasagne-alle-zucchine.html"
+            },
+            {
+                "name": "Lasagne bianche vegetariane",
+                "url": "https://ricette.giallozafferano.it/Lasagne-bianche-vegetariane.html"
+            }
+        ],
+        "scraped_at": "2026-01-11 17:52:09",
+        "category": "Primi piatti",
+        "prep_time": "5 h",
+        "calories": "Not Available",
+        "difficulty": "3"
+    },
+    {
+        "title": "Biscotti di pan di zenzero (gingerbread)",
+        "url": "https://ricette.giallozafferano.it/Biscotti-di-Pan-di-zenzero-gingerbread.html",
+        "description": "Per le feste natalizie non possono mancare lucine, ghirlande, film a lieto fine e soprattutto i biscotti di Natale, come i biscotti di pan di zenzero, una ricetta golosa e facile, perfetta per arricchire i menù delle feste. Amatissimi nel mondo anglosassone, e ormai anche dalle nostre parti, i gingerbread hanno origini nordeuropee. Il loro gusto ricco e speziato ha conquistato proprio tutti! Questi biscottini si realizzano in tante forme diverse: omini, renne, alberelli, calzette o stelline, tutto è concesso purché richiami la magia del Natale. Ma c’è una formina speciale che proprio non può mancare: grazie a lei questo biscotto diventa il gingerbread man … l’omino di pan di zenzero. Un tocco di ghiaccia reale e i vostri biscotti di pan di zenzero prenderanno le fattezze desiderate, potrete trasformarli in renne e farli diventare protagonisti di tante storie golose che rievocano l'atmosfera delle feste natalizie. Confezionateli come dono natalizio da inserire nei vostri cesti di Natale fai da te oppure per arricchire la calza della Befana insieme ad altre leccornie tipiche come il carbone, i candy cane twist nella nostra versione cookies, le caramelle mou e golosi lecca lecca ! Potete utilizzare l'impasto dei gingerbread per realizzare anche questi dolci di Natale",
+        "ingredients": [
+            {
+                "group": "per circa 15 biscotti",
+                "items": [
+                    {
+                        "item": "Farina 00",
+                        "quantity": "350 g"
+                    },
+                    {
+                        "item": "Zucchero",
+                        "quantity": "160 g"
+                    },
+                    {
+                        "item": "Burro",
+                        "quantity": "freddo di frigo 110 g"
+                    },
+                    {
+                        "item": "Miele",
+                        "quantity": "50 g"
+                    },
+                    {
+                        "item": "Uova",
+                        "quantity": "1"
+                    },
+                    {
+                        "item": "Zenzero in polvere",
+                        "quantity": "5 g"
+                    },
+                    {
+                        "item": "Cannella in polvere",
+                        "quantity": "5 g"
+                    },
+                    {
+                        "item": "Chiodi di garofano macinati",
+                        "quantity": "1 pizzico"
+                    },
+                    {
+                        "item": "Noce moscata",
+                        "quantity": "1 pizzico"
+                    },
+                    {
+                        "item": "Bicarbonato",
+                        "quantity": "¼ cucchiaino"
+                    },
+                    {
+                        "item": "Sale fino",
+                        "quantity": "1 pizzico"
+                    }
+                ]
+            },
+            {
+                "group": "per la glassa",
+                "items": [
+                    {
+                        "item": "Zucchero a velo",
+                        "quantity": "150 g"
+                    },
+                    {
+                        "item": "Albumi",
+                        "quantity": "1"
+                    }
+                ]
+            },
+            {
+                "group": "per guarnire",
+                "items": [
+                    {
+                        "item": "Zuccherini",
+                        "quantity": "colorati q.b."
+                    }
+                ]
+            }
+        ],
+        "instructions": "Per realizzare i biscotti di pan di zenzero iniziate dalla frolla speziata: versate nel mixer munito di lame la farina e tutte le spezie: i chiodi di garofano macinati, la cannella in polvere, la noce moscata grattugiata e lo zenzero in polvere. Aggiungete anche 1/4 di cucchiaino di bicarbonato. Unite lo zucchero semolato, un pizzico di sale e il miele. Per ultimo versate il burro freddo di frigo tagliato a dadini, frullate il composto ad intermittenza per non scaldare eccessivamente l'impasto fino a ottenere una consistenza sabbiosa. Versate il composto sul piano di lavoro e formate la classica fontana. Versate l’uovo al centro e incorporatelo all’impasto prima con la forchetta poi con le mani. Impastate velocemente. Una volta che l’impasto avrà preso consistenza, formate un panetto piatto e copritelo con pellicola trasparente. Ponete l’impasto a rassodare in frigorifero per almeno 30 minuti. Trascorso il tempo di riposo, riprendete l’impasto e stendetelo con il mattarello su una spianatoia infarinata ad uno spessore di circa 7 mm. Ritagliate la frolla con le formine natalizie che preferite, noi abbiamo scelto i classici omini di pan di zenzero. Se volete, in questa fase potete forare i biscotti all'altezza della testolina degli omini per far passare un nastrino e poterli appendere all’albero. Con le dosi indicate otterrete circa 15 biscotti (in base al tipo di forme usate e alle dimensioni il numero potrebbe variare). Potete impastare velocemente gli scarti e, dopo aver lasciato riposare nuovamente il panetto, ritagliarli per ottenere altri biscotti. Trasferite i biscotti su una leccarda rivestita con carta forno e cuocete i biscotti in forno statico preriscaldato a 170° per circa 15 minuti: i tempi sono indicativi poiché ogni forno ha una potenza diversa, è consigliabile perciò fare una prova con un paio di pezzi per accertarsi che la cottura nel proprio forno sia ottimale. A cottura ultimata, sfornate i biscotti e lasciateli raffreddare completamente, meglio se su una gratella. Intanto preparate la ghiaccia reale: versate gli albumi in una ciotola, iniziate a montare con le fruste elettriche a media velocità e incorporate poco a poco lo zucchero a velo aiutandovi con un cucchiaio : regolate la dose fino ad ottenere un composto omogeneo della consistenza desiderata. Trasferite la glassa in un sac-à-poche usa e getta e ritagliate la punta creando un piccolo foro, quindi decorate i biscotti come preferite, arricchendo gli omini con zuccherini colorati. I vostri biscotti di pan di zenzero sono pronti per essere gustati.",
+        "related_recipes": [
+            {
+                "name": "Casetta di pan di spezie",
+                "url": "https://ricette.giallozafferano.it/Casetta-di-pan-di-spezie.html"
+            },
+            {
+                "name": "Corona di pan di zenzero",
+                "url": "https://ricette.giallozafferano.it/Corona-di-pan-di-zenzero.html"
+            },
+            {
+                "name": "Festone di pan di zenzero",
+                "url": "https://ricette.giallozafferano.it/Festone-di-pan-di-zenzero.html"
+            },
+            {
+                "name": "Torta casetta pan di zenzero",
+                "url": "https://ricette.giallozafferano.it/Torta-casetta-pan-di-zenzero.html"
+            }
+        ],
+        "scraped_at": "2026-01-11 17:52:10",
+        "category": "Dolci",
+        "prep_time": "1 h 5 min",
+        "calories": "235",
+        "difficulty": "3"
+    },
+    {
+        "title": "Pasta per la pizza",
+        "url": "https://ricette.giallozafferano.it/Impasto-per-pizza.html",
+        "description": "Soffice dalla crosta o cornicione (come lo chiamano a Napoli) rigonfio. Bassa e croccante, alta e morbida: la pizza ha tante facce, noi oggi vi mostriamo quella più classica, comune e perfetta da fare in casa in poche ore. La pasta per la pizza che vi proponiamo, infatti, lievita per circa 6 ore: potrete quindi organizzarvi per prepararla in giornata e gustarla la sera con i condimenti che più preferite. Una ricetta di base semplice per una pizza fatta in casa che si prepara con pochi ingredienti e poi si guarnisce come meglio si crede, magari conferendo anche una forma insolita, come la nostra soffice ciambella pizza. Siete pronti per mettere le mani in pasta? Oggi scopriamo tutti i segreti per preparare la pasta per la pizza, perfetta anche per preparare una buonissima pizza rustica ! Se siete amanti della pizza provate ricette:",
+        "ingredients": [
+            {
+                "group": "Ingredienti (per 3 pizze di 28 cm di diametro)",
+                "items": [
+                    {
+                        "item": "Farina Manitoba",
+                        "quantity": "200 g"
+                    },
+                    {
+                        "item": "Farina 00",
+                        "quantity": "300 g"
+                    },
+                    {
+                        "item": "Acqua",
+                        "quantity": "a temperatura ambiente 300 ml"
+                    },
+                    {
+                        "item": "Sale fino",
+                        "quantity": "10 g"
+                    },
+                    {
+                        "item": "Lievito di birra fresco",
+                        "quantity": "(oppure 1,5 se secco) 4 g"
+                    }
+                ]
+            }
+        ],
+        "instructions": "Per preparare la pasta per la pizza abbiamo scelto di impastare il tutto a mano, ma se preferite utilizzare l’impastatrice potrete seguire lo stesso procedimento, utilizzando il gancio a velocità medio bassa. Come prima cosa versate le due farine in una ciotola, sbriciolate il lievito all'interno e versate un po' della dose di acqua. La temperatura ideale dell'acqua è di 25°. Mescolate con un mestolo di legno e aggiungete lentamente l'acqua. Continuate sempre a mescolare e quando avrete aggiunto circa metà dell'acqua potrete aggiungere anche il sale. Unite poi l'acqua rimasta, sempre lentamente, sino ad ottenere un composto omogeneo; aiutatevi con le mani per lavorarlo meglio. Infine trasferite l’impasto sul piano da lavoro e lavoratelo con le mani fino a che non sarà liscio e omogeneo. Ottenuto un bel panetto liscio, lasciatelo riposare sul piano di lavoro per una decina di minuti coprendolo con la ciotola. Una volta riposato dategli una piccola piega: immaginate che la sfera sia divisa in 4 parti, prendete l’estremità di ognuna, tiratela delicatamente e ripiegatela verso il centro. Date poi una piega all'impasto. Rigiratelo su se stesso, dategli la forma di una sfera. Trasferite l'impasto così formato in una ciotola, coprite con pellicola trasparente e lasciate lievitare. Per comodità potete mettere la ciotola in forno spento ma con la luce accesa, così l’interno raggiungerà la temperatura di 26-28°, ideale per la lievitazione; in alternativa potete anche tenere la bacinella in un luogo caldo. I tempi sono approssimativi poiché ogni impasto, la temperatura e le condizioni metereologiche influenzano la lievitazione: mediamente l’impasto dovrebbe impiegare 6 ore a raddoppiare di volume. Trascorso il tempo della lievitazione, l'impasto sarà bello gonfio, quindi trasferitelo sul piano da lavoro e dividetelo con un tarocco in 3 pezzi da 265 g. Se dovesse servirvi, potete infarinare leggermente il piano di lavoro. Ora prendete ciascuna porzione e come fatto prima sollevate un lembo di pasta e portatelo verso l'interno. Rifate poi la stessa cosa per gli altri 3 lembi di pasta. Allungate quindi l'impasto piegandolo su se stesso e procedete con la pirlatura: pirlare l'impasto significa farlo girare con le mani sul ripiano di lavoro portandolo verso di voi e poi allontanandolo ripetutamente fino ad ottenere una sfera liscia e regolare. Trasferite man mano i panetti in una cassetta per pizza precedentemente unta, coprite con il coperchio e lasciateli riposare per altri 30 minuti, prima di poter tirare l’impasto per la pizza e condirlo a vostro piacimento!",
+        "related_recipes": [
+            {
+                "name": "Pizza margherita",
+                "url": "https://ricette.giallozafferano.it/Pizza-Margherita.html"
+            },
+            {
+                "name": "Pizza margherita semplice",
+                "url": "https://ricette.giallozafferano.it/Pizza-margherita-semplice.html"
+            },
+            {
+                "name": "Pizza a lunga lievitazione",
+                "url": "https://ricette.giallozafferano.it/Pizza-a-lunga-lievitazione.html"
+            },
+            {
+                "name": "Pizza con lievito madre",
+                "url": "https://ricette.giallozafferano.it/Pizza-con-lievito-madre.html"
+            },
+            {
+                "name": "Pizza in teglia alta e morbida",
+                "url": "https://ricette.giallozafferano.it/Pizza-in-teglia-alta-e-morbida.html"
+            },
+            {
+                "name": "Pizza alla napoletana",
+                "url": "https://ricette.giallozafferano.it/Pizza-alla-napoletana.html"
+            },
+            {
+                "name": "Pizza in padella",
+                "url": "https://ricette.giallozafferano.it/Pizza-in-padella.html"
+            },
+            {
+                "name": "Straccetti di pizza fritti",
+                "url": "https://ricette.giallozafferano.it/Straccetti-di-pizza-fritti.html"
+            }
+        ],
+        "scraped_at": "2026-01-11 17:52:12",
+        "category": "Lievitati",
+        "prep_time": "30 min prep",
+        "calories": "611",
+        "difficulty": "2"
+    },
+    {
+        "title": "Struffoli",
+        "url": "https://ricette.giallozafferano.it/Struffoli.html",
+        "description": "La tradizione napoletana vanta tante preparazioni tra cui spiccano quelle dolci come il babà al rum, i mostaccioli, i biscotti all'amarena, le sfogliatelle e... gli immancabili struffoli, i dolci più caratteristici del periodo di Natale. Per chi ancora non avesse mai sentito parlare degli struffoli, basti dire che sono delle piccole palline di pasta dolce, fritte e poi immerse nel miele e decorate con confettini colorati e frutta candita. Per quanto riguarda le origini degli struffoli, dobbiamo tornare indietro fino all’età degli antichi Greci che pare li abbiano esportati nel Golfo di Napoli al tempo di Partenope. Ed è proprio dal greco che secondo molti deriverebbe anche il nome “struffoli”: più precisamente dalla parola “strongoulos”, ovvero “dalla forma arrotondata”. Altre teorie sostengono che la parola struffolo deriverebbe da \"strofinare\", il gesto che compie chi lavora la pasta, per arrotolarla a cilindro prima di tagliarla a tocchetti. Altri ancora, pensano che lo struffolo si chiami così perché “strofina” il palato, ovvero lo solletica con il suo dolce sapore. Nonostante sia una preparazione molto conosciuta ed apprezzata, gli struffoli hanno una larga diffusione solo nell’Italia meridionale dove ne esistono diverse versioni, tutte più o meno simili alla ricetta originale ma con nomi diversi: in Calabria “cicirata”, in Umbria ed Abruzzo “ cicerchiata ” e a Palermo “strufoli”. Oggi vogliamo mostrarvi quanto è facile prepararli con la ricetta dello storico caffè Gambrinus, di Napoli! Ecco altre varianti da provare di questi tipici dolci natalizi",
+        "ingredients": [
+            {
+                "group": "Ingredienti di base",
+                "items": [
+                    {
+                        "item": "Farina 00",
+                        "quantity": "500 g"
+                    },
+                    {
+                        "item": "Zucchero",
+                        "quantity": "20 g"
+                    },
+                    {
+                        "item": "Sale fino",
+                        "quantity": "1 pizzico"
+                    },
+                    {
+                        "item": "Burro",
+                        "quantity": "100 g"
+                    },
+                    {
+                        "item": "Uova",
+                        "quantity": "(medie) 3"
+                    },
+                    {
+                        "item": "Tuorli",
+                        "quantity": "(di uova medie) 2"
+                    },
+                    {
+                        "item": "Bicarbonato",
+                        "quantity": "4 g"
+                    },
+                    {
+                        "item": "Scorza d'arancia",
+                        "quantity": "1"
+                    },
+                    {
+                        "item": "Liquore all'anice",
+                        "quantity": "25 g"
+                    },
+                    {
+                        "item": "Scorza di limone",
+                        "quantity": "1"
+                    }
+                ]
+            },
+            {
+                "group": "per condire gli struffoli",
+                "items": [
+                    {
+                        "item": "Miele millefiori",
+                        "quantity": "600 g"
+                    },
+                    {
+                        "item": "Zucchero",
+                        "quantity": "100 g"
+                    },
+                    {
+                        "item": "Scorza di limone",
+                        "quantity": "1"
+                    },
+                    {
+                        "item": "Scorza d'arancia",
+                        "quantity": "1"
+                    },
+                    {
+                        "item": "Codette colorate",
+                        "quantity": "q.b."
+                    },
+                    {
+                        "item": "Arancia candita",
+                        "quantity": "a cubetti 150 g"
+                    },
+                    {
+                        "item": "Ciliegie candite",
+                        "quantity": "q.b."
+                    },
+                    {
+                        "item": "Decorazione alimentare",
+                        "quantity": "confettini argentati q.b."
+                    }
+                ]
+            },
+            {
+                "group": "per friggere",
+                "items": [
+                    {
+                        "item": "Olio di semi di girasole",
+                        "quantity": "q.b."
+                    }
+                ]
+            }
+        ],
+        "instructions": "Per preparare gli struffoli iniziate setacciando la farina sulla spianatoia e allargatela in modo da formare la classica fontana. Aggiungete anche il sale. Unite poi lo zucchero e il bicarbonato. Tagliate il burro a cubetti e sistematelo al centro. Iniziate ad impastare con le mani il burro con lo zucchero, poi aggiungete al centro le uova una alla volta e continuando ad impastare aggiungete anche i tuorli. Versate ora il liquore all'anice, la scorza di limone e quella d'arancia, entrambe grattugiate. Iniziate a lavorare l'impasto con le mani o con l'aiuto di un tarocco per ottenere un impasto liscio e omogeneo. Avvolgete l'impasto con la pellicola per non farlo seccare. Lasciate riposare per 30 minuti a temperatura ambiente. Prelevate una parte di impasto, tenendo l'altra sempre ben coperta. Formate dei filoncini spessi 1 cm e ricavate dei piccoli tocchetti larghi circa 1/1,5 cm. Man mano trasferiteli su un vassoio rivestito con un canovaccio pulito, distanziandoli tra loro. Proseguite in questo modo fino a terminare l'impasto, distanziando bene i tocchetti. Passate alla frittura: versate l'olio in una pentola capiente e scaldatelo fino a raggiungere una temperatura di 150-160°. Immergete pochi pezzi per volta, aiutandovi con una schiumarola e smuoveteli un po' durante la cottura, in questo modo risulteranno tondi. Quando saranno ben dorati scolateli ; ci vorranno circa 3-4 minuti. Trasferite su un vassoio con carta da cucina per togliere l'olio in eccesso e proseguite in questo modo per la cottura di tutti gli altri struffoli. Ora passate alla guarnitura. Prendete l'arancia candita e tagliatela a cubetti. A parte in un tegame versate il miele e lo zucchero. Scaldate a fuoco dolce mescolando di tanto in tanto. Non appena inizierà a bollire spegnete il fuoco. Lasciate intiepidire e aggiungete la scorza di limone e quella d'arancia, entrambe grattugiate. Unite l'arancia candita a cubetti e mescolate ancora. Lasciate intiepidire per 5-6 minuti, quindi versate gli struffoli all'interno. Amalgamate bene con un mestolo di legno sino a che gli struffoli non saranno ben ricoperti e si saranno raffreddati. Trasferite in un piatto da portata, decorate con gli zuccherini colorati, scorza di arancia candita e ciliegie candite. Gli struffoli sono pronti!",
+        "related_recipes": [
+            {
+                "name": "Struffoli con crema al latte",
+                "url": "https://ricette.giallozafferano.it/Struffoli-con-creme-al-latte.html"
+            },
+            {
+                "name": "Struffoli ai frutti rossi",
+                "url": "https://ricette.giallozafferano.it/Struffoli-ai-frutti-rossi.html"
+            },
+            {
+                "name": "Pignolata al miele",
+                "url": "https://ricette.giallozafferano.it/Pignolata-al-miele.html"
+            },
+            {
+                "name": "Purcidduzzi",
+                "url": "https://ricette.giallozafferano.it/Purceddhruzzi.html"
+            },
+            {
+                "name": "Pignolata glassata",
+                "url": "https://ricette.giallozafferano.it/Pignolata-glassata.html"
+            },
+            {
+                "name": "Turdilli calabresi",
+                "url": "https://ricette.giallozafferano.it/Turdilli-calabresi.html"
+            },
+            {
+                "name": "Struffoli in friggitrice ad aria",
+                "url": "https://ricette.giallozafferano.it/Struffoli-in-friggitrice-ad-aria.html"
+            }
+        ],
+        "scraped_at": "2026-01-11 17:52:13",
+        "category": "Dolci",
+        "prep_time": "50 min",
+        "calories": "582",
+        "difficulty": "3"
+    },
+    {
+        "title": "Focaccia (fügassa) alla genovese",
+        "url": "https://ricette.giallozafferano.it/Focaccia-fugassa-alla-genovese.html",
+        "description": "La focaccia alla genovese, in dialetto “a fügassa ”, è una specialità tipica della cucina ligure e la tradizione della sua antica preparazione è cosi radicata nei genovesi che ha fatto diventare questo prodotto un presidio Slow Food. E' famosa in tutto il mondo anche se è praticamente impossibile ricreare la sua fragranza e la sua bontà al di fuori del territorio d'origine. Ci siamo allora affidati alla maestria dello chef ligure Ezio Rocchi, per condividere con voi un risultato eccellente da replicare a casa. Il metodo che vi suggeriamo è più veloce di quanto previsto dal presidio Slow Food (che indica circa 8 ore per l'intero processo di lavorazione), anche se tra una fase di lavorazione, stesura e riposo bisognerà attendere qualche ora prima di gustare questo straordinario prodotto. Si rispettano le caratteristiche imprescindibili perché si parli di focaccia genovese: spessore di due centimetri come da tradizione, consistenza equilibrata tra croccantezza e morbidezza, friabilità, lucentezza e, ovviamente, zero rischi che risulti gommosa! Dato che metterete le mani in pasta insieme a noi, vi consigliamo di provare anche altri speciali lievitati della regione: Se siete amanti delle focacce provate queste varianti:",
+        "ingredients": [
+            {
+                "group": "Ingredienti per 2 teglie da 30x40 cm",
+                "items": [
+                    {
+                        "item": "Farina 00",
+                        "quantity": "(W=280) 400 g"
+                    },
+                    {
+                        "item": "Farina Manitoba",
+                        "quantity": "(W=400) 250 g"
+                    },
+                    {
+                        "item": "Acqua",
+                        "quantity": "(a temperatura ambiente) 335 g"
+                    },
+                    {
+                        "item": "Sale fino",
+                        "quantity": "13 g"
+                    },
+                    {
+                        "item": "Malto",
+                        "quantity": "10 g"
+                    },
+                    {
+                        "item": "Lievito di birra fresco",
+                        "quantity": "18 g"
+                    },
+                    {
+                        "item": "Olio extravergine d'oliva",
+                        "quantity": "30 g"
+                    }
+                ]
+            },
+            {
+                "group": "per ungere le teglie",
+                "items": [
+                    {
+                        "item": "Olio extravergine d'oliva",
+                        "quantity": "30 g"
+                    }
+                ]
+            },
+            {
+                "group": "per la superficie",
+                "items": [
+                    {
+                        "item": "Olio extravergine d'oliva",
+                        "quantity": "60 g"
+                    }
+                ]
+            },
+            {
+                "group": "per la salamoia",
+                "items": [
+                    {
+                        "item": "Sale",
+                        "quantity": "10 g"
+                    },
+                    {
+                        "item": "Acqua",
+                        "quantity": "200 g"
+                    }
+                ]
+            }
+        ],
+        "instructions": "Per preparare la focaccia genovese versate in una ciotola la farina Manitoba e la farina 00. Miscelate con una marisa, poi formate un leggero buco al centro e versate quasi tuta l'acqua. Mescolate ancora per far assorbire l'acqua, poi unite il malto e il sale tutto insieme. Mescolate, poi versate l'acqua rimasta e lavorate ancora con la marisa fino ad ottenere una pasta omogenea. Una volta che il sale si sarà integrato alla farina potrete aggiungere il lievito di birra sbriciolato. Ancora qualche giro di marisa e l'impasto è pronto per trasferirlo sul piano di lavoro e continuare a lavorare a mano, piuttosto energicamente. Se è rimasta un po' di farina non assorbita, non importa: si assorbirà lavorandola, facendo delle pressioni con il palmo della mano mentre impastate, proprio a \"strappare l'impasto\" replicando il movimento della macchina. Dopo pochi minuti, quando vedete che la maglia glutinica prende forma, quindi l'impasto risulta più omogeno e quasi elastico, versate l'olio sull'impasto. Continuate a lavorare sul piano per far assorbire tutto l'olio sempre impastando energicamente. In base al tipo di farina utilizzato, mentre lavorate, potrebbe essere necessario spolverizzare con pochissima farina. In tutto ci vorranno 13-15 minuti, per ottenere un impasto liscio ed omogeneo. Potete coprirlo e lasciarlo riposare per qualche minuto. Quindi togliete il canovaccio. Chiudete l'impasto roteandolo sul piano, noterete che in pochissimi secondi diventerà liscio. Dividete l'impasto in due pezzi da 500 g, date una forma rettangolare schiacciandolo con le mani e date una piega a tre. Per farlo potete ripiegare l'impasto su se stesso, portando un lembo verso l'interno e poi ripiegando ancora, lasciando una linea sotto e arrotolandolo per finire, in modo che la chiusura resti appunto a contatto con il banco di lavoro, leggermente spolverizzato con farina. Ripetete la stessa operazione anche per l'altra metà di impasto. Coprite con un panno e lasciate riposare per circa 30 minuti. Togliete il canovaccio, prendete uno dei due panetti e mantenete l'altro coperto. Ungete la prima teglia 30x40 con 15 g di olio, senza andare negli angoli perchè ci andrà da solo. Posizionate il panetto su un piano infarinato, schiacciatelo con le dita per allargarlo, sempre utilizzando solo indice, medio e anulare quindi 3 dita della mano. Poi passate a stendere l'impasto con un mattarello, girando l'impasto di tanto in tanto in modo da mantenere una forma rettangolare. Passate le mani sotto l'impasto, quindi giratele in modo che il dorso delle mani sollevi l'impasto per adagiarlo senza ledere la pasta sulla teglia fino a ricoprire il 70-80%. Coprite con un panno e lasciate riposare ancora per 20-30 minuti. Nel frattempo ripetete la stessa operazione per il secondo panetto di impasto. A questo punto spolverizzate la focaccia con poca farina, schiacciate bene con la punta delle dita stendendo l'impasto su tutta la teglia, partendo dal perimetro per creare un piccolo bordo. E' importante che l'impasto aderisca bene alla teglia, in questo modo quando verserete sopra la salamoia, non finirà sul fondo. Lisciate il più possibile con il palmo delle mani la superficie, coprite di nuovo e lasciate riposare per un'ora. A questo punto preparate la salamoia mescolando insieme acqua e sale, fino a che non sarà ben sciolto. Scoprite la focaccia, spolverizzatela con pochissima farina e con le tre dita (indice, medio anulare) imprimete i tipici buchi facendo una bella pressione e spingando verso i bordi: le dita non devono essere perpendicolari all'impasto, ma leggermente inclinate. Dovrete lasciare circa 1 cm tra un buco e l'altro. Quando avrete quasi terminato di realizzare tutti i fori, ruotate la teglia, in questo modo sarà più semplice realizzare tutti i fori anche lungo il bordo rimasto. Ora versate al centro di ogni focaccia 30 g di olio e 90 g di salamoia. Poi spargetela delicatamente con la mano in modo da riempire tutti i buchi. Lasciate lievitare per altri 40-45 minuti, questa volta senza coprirla. Cuocete in forno statico preriscaldato a 230° per 15 minuti (se il forno è molto potente, consigliamo in caso di modificare temperatura, ma non la tempistica. E' bene non cuocere oltre i 15 minuti per non far asciugare troppo la focaccia). Quando la superficie risulterà dorata potrete sfornare la vostra focaccia ! Lasciatela intiepidire pochi minuti, tagliatela e servitela!",
+        "related_recipes": [
+            {
+                "name": "Sardenaira",
+                "url": "https://ricette.giallozafferano.it/Sardenaira.html"
+            },
+            {
+                "name": "Focaccia al formaggio",
+                "url": "https://ricette.giallozafferano.it/Focaccia-col-formaggio.html"
+            },
+            {
+                "name": "Torta de gee",
+                "url": "https://ricette.giallozafferano.it/Torta-de-gee.html"
+            },
+            {
+                "name": "Focaccia allo yogurt",
+                "url": "https://ricette.giallozafferano.it/Focaccia-allo-yogurt.html"
+            },
+            {
+                "name": "Focaccia ad alta idratazione",
+                "url": "https://ricette.giallozafferano.it/Focaccia-ad-alta-idratazione.html"
+            },
+            {
+                "name": "Focaccia dolce",
+                "url": "https://ricette.giallozafferano.it/Focaccia-dolce.html"
+            },
+            {
+                "name": "focaccia morbida",
+                "url": "https://ricette.giallozafferano.it/Focaccia-morbida.html"
+            }
+        ],
+        "scraped_at": "2026-01-11 17:52:14",
+        "category": "Lievitati",
+        "prep_time": "45 min",
+        "calories": "440",
+        "difficulty": "3"
+    },
+    {
+        "title": "Spaghetti alla Carbonara",
+        "url": "https://ricette.giallozafferano.it/Spaghetti-alla-Carbonara.html",
+        "description": "Volete preparare la vera carbonara cremosa, come da tradizione romana? Bastano pochi ingredienti per preparare questo primo piatto : guanciale croccante, tuorli, Pecorino Romano e pepe nero. Il segreto per ottenere la crema perfetta è mantecare fuori dal fuoco con un po’ di acqua di cottura. Nessuna panna, solo gusto autentico! In questa ricetta vi sveliamo passo dopo passo come ottenere la carbonara originale, cremosa e irresistibile, da preparare con gli spaghetti o con il formato di pasta che preferite. Nella sua semplicità e nella qualità degli ingredienti, la pasta alla carbonara è una delle ricette italiane più amate. Come la cacio e pepe, l' amatriciana o la pasta alla gricia, racchiude in pochi gesti tutta la forza della cucina romana. Se cercate varianti sfiziose o vegetariane della pasta alla carbonara, provate anche: Le origini della Carbonara La versione più accreditata racconta che la prima Carbonara fu preparata nel 1944 a Roma, al Vicolo della Scrofa, con gli ingredienti a disposizione dei soldati americani uova, bacon e formaggio. La fantasia di un cuoco romano trasformò questi sapori nel primo prototipo della carbonara. Da allora, la ricetta è evoluta fino a quella che tutti conosciamo e amiamo oggi.",
+        "ingredients": [
+            {
+                "group": "Ingredienti di base",
+                "items": [
+                    {
+                        "item": "Spaghetti",
+                        "quantity": "320 g"
+                    },
+                    {
+                        "item": "Guanciale",
+                        "quantity": "150 g"
+                    },
+                    {
+                        "item": "Tuorli",
+                        "quantity": "(di uova medie) 6"
+                    },
+                    {
+                        "item": "Pecorino Romano DOP",
+                        "quantity": "50 g"
+                    },
+                    {
+                        "item": "Pepe nero",
+                        "quantity": "q.b."
+                    }
+                ]
+            }
+        ],
+        "instructions": "Per preparare gli spaghetti alla carbonara cominciate mettendo sul fuoco una pentola con l’acqua salata per cuocere la pasta. Nel frattempo eliminate la cotenna dal guanciale e tagliatelo prima a fette e poi a striscioline spesse circa 1cm. La cotenna avanzata potrà essere riutilizzata per insaporire altre preparazioni. Versate i pezzetti di guanciale in una padella antiaderente e rosolate per circa 10 minuti a fiamma medio alta, fate attenzione a non bruciarlo altrimenti rilascerà un aroma troppo forte. Nel frattempo tuffate gli spaghetti nell’acqua bollente e cuoceteli al dente. Intanto versate i tuorli in una ciotola. Aggiungete il Pecorino e insaporite con il pepe nero. Amalgamate il tutto con una frusta a mano, sino ad ottenere una crema liscia. Intanto il guanciale sarà giunto a cottura ; spegnete il fuoco e utilizzando un mestolo prelevatelo dalla padella, lasciando il fondo di cottura all'interno della padella stessa. Trasferite il guanciale in una ciotolina e tenetelo da parte. Versate una mestolata d’acqua della pasta in padella, insieme al grasso del guanciale. Scolate la pasta al dente direttamente nel tegame con il fondo di cottura. Saltatela brevemente per insaporirla. Togliete dal fuoco e versate il composto di uova e Pecorino nel tegame. Mescolate velocemente per amalgamare. Per renderla ben cremosa, al bisogno, potete aggiungere poca acqua di cottura della pasta. Aggiungete il guanciale, mescolate un'ultima volta e servite subito gli spaghetti alla carbonara aggiungendo ancora del pecorino in superficie e un pizzico di pepe nero.",
+        "related_recipes": [
+            {
+                "name": "Carbonara di mare",
+                "url": "https://ricette.giallozafferano.it/Carbonara-di-mare.html"
+            },
+            {
+                "name": "Carbonara di mare viareggina",
+                "url": "https://ricette.giallozafferano.it/Carbonara-di-mare-viareggina.html"
+            },
+            {
+                "name": "Pasta alla carbonara di zucchine",
+                "url": "https://ricette.giallozafferano.it/Pasta-alla-carbonara-di-zucchine.html"
+            },
+            {
+                "name": "Pasta patate e uova",
+                "url": "https://ricette.giallozafferano.it/Pasta-patate-e-uova.html"
+            },
+            {
+                "name": "Carbonara agli asparagi",
+                "url": "https://ricette.giallozafferano.it/Carbonara-di-asparagi.html"
+            },
+            {
+                "name": "Carbonara di salmone",
+                "url": "https://ricette.giallozafferano.it/Carbonara-di-salmone.html"
+            },
+            {
+                "name": "Supplì alla carbonara",
+                "url": "https://ricette.giallozafferano.it/Suppli-alla-carbonara.html"
+            },
+            {
+                "name": "Carbonara di mare con gamberi",
+                "url": "https://ricette.giallozafferano.it/Carbonara-di-mare-con-gamberi.html"
+            },
+            {
+                "name": "Gnocchi alla carbonara",
+                "url": "https://ricette.giallozafferano.it/Gnocchi-alla-carbonara.html"
+            },
+            {
+                "name": "Risotto alla carbonara",
+                "url": "https://ricette.giallozafferano.it/Risotto-alla-carbonara.html"
+            }
+        ],
+        "scraped_at": "2026-01-11 17:52:15",
+        "category": "Primi piatti",
+        "prep_time": "25 min",
+        "calories": "559",
+        "difficulty": "2"
+    }
+]
